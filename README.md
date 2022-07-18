@@ -6,10 +6,6 @@ Painting Board made with VanillaJS
 this is 5 2022-07-18 test
 
 this is 6 test
-<<<<<<< HEAD
-
-this is test
-=======
 this is 7 test
 8branch start
 8branch change1
@@ -28,7 +24,11 @@ this is 7 test
 17 change
 
 18 change
+
+
+
+
 this is test
 
-
+19chagne
 test 10
